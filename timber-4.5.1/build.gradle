@@ -1,0 +1,3 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('rxandroid-1.2.1.aar'))
+artifacts.add("default", file('timber-4.5.1.aar'))
